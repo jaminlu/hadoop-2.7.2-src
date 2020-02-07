@@ -1,0 +1,14 @@
+org/apache/hadoop/yarn/server/api/protocolrecords/TestRegisterNodeManagerRequest.class
+org/apache/hadoop/yarn/TestResourceTrackerPBClientImpl$ResourceTrackerTestImpl.class
+org/apache/hadoop/yarn/TestYarnServerApiClasses.class
+org/apache/hadoop/yarn/server/utils/TestLeveldbIterator$1.class
+org/apache/hadoop/yarn/TestYSCRecordFactory.class
+org/apache/hadoop/yarn/server/api/protocolrecords/TestProtocolRecords.class
+org/apache/hadoop/yarn/server/api/protocolrecords/TestRegisterNodeManagerResponse.class
+org/apache/hadoop/yarn/TestResourceTrackerPBClientImpl.class
+org/apache/hadoop/yarn/TestYSCRPCFactories$ResourceTrackerTestImpl.class
+org/apache/hadoop/yarn/TestYSCRPCFactories.class
+org/apache/hadoop/yarn/TestYarnServerApiClasses$1.class
+org/apache/hadoop/yarn/lib/TestZKClient.class
+org/apache/hadoop/yarn/server/utils/TestLeveldbIterator$CallInfo.class
+org/apache/hadoop/yarn/server/utils/TestLeveldbIterator.class

@@ -1,0 +1,15 @@
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/rebuild_cache.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/test_htable.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/native_mini_dfs.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/test_libhdfs_threaded.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/test_native_mini_dfs.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/test_libhdfs_vecsum.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/test_libhdfs_write.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/hdfs_static.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/edit_cache.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/test_libhdfs_ops.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/test_libhdfs_read.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/test_libhdfs_zerocopy.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles/hdfs.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/main/native/fuse-dfs/CMakeFiles/rebuild_cache.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/target/native/main/native/fuse-dfs/CMakeFiles/edit_cache.dir

@@ -1,0 +1,5 @@
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-ant/src/main/java/org/apache/hadoop/ant/condition/DfsBaseConditional.java
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-ant/src/main/java/org/apache/hadoop/ant/condition/DfsIsDir.java
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-ant/src/main/java/org/apache/hadoop/ant/condition/DfsExists.java
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-ant/src/main/java/org/apache/hadoop/ant/condition/DfsZeroLen.java
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-ant/src/main/java/org/apache/hadoop/ant/DfsTask.java

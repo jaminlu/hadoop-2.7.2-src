@@ -1,0 +1,13 @@
+org/apache/hadoop/yarn/sls/scheduler/TestTaskRunner$TriTask.class
+org/apache/hadoop/yarn/sls/appmaster/TestAMSimulator.class
+org/apache/hadoop/yarn/sls/scheduler/TestTaskRunner$MultiTask.class
+org/apache/hadoop/yarn/sls/nodemanager/TestNMSimulator.class
+org/apache/hadoop/yarn/sls/appmaster/TestAMSimulator$MockAMSimulator.class
+org/apache/hadoop/yarn/sls/web/TestSLSWebApp.class
+org/apache/hadoop/yarn/sls/scheduler/TestTaskRunner$SingleTask.class
+org/apache/hadoop/yarn/sls/utils/TestSLSUtils.class
+org/apache/hadoop/yarn/sls/scheduler/TestTaskRunner$PreStartTask.class
+org/apache/hadoop/yarn/sls/TestSLSRunner.class
+org/apache/hadoop/yarn/sls/scheduler/TestTaskRunner$DualTask.class
+org/apache/hadoop/yarn/sls/TestSLSRunner$1.class
+org/apache/hadoop/yarn/sls/scheduler/TestTaskRunner.class

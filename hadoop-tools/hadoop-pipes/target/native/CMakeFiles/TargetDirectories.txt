@@ -1,0 +1,8 @@
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-pipes/target/native/CMakeFiles/hadooppipes.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-pipes/target/native/CMakeFiles/hadooputils.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-pipes/target/native/CMakeFiles/rebuild_cache.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-pipes/target/native/CMakeFiles/wordcount-simple.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-pipes/target/native/CMakeFiles/wordcount-nopipe.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-pipes/target/native/CMakeFiles/wordcount-part.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-pipes/target/native/CMakeFiles/edit_cache.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-pipes/target/native/CMakeFiles/pipes-sort.dir

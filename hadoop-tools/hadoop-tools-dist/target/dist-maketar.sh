@@ -1,0 +1,2 @@
+cd "/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-tools/hadoop-tools-dist/target"
+                      tar cf - hadoop-tools-dist-2.7.2 | gzip > hadoop-tools-dist-2.7.2.tar.gz

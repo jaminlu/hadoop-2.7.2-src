@@ -1,0 +1,15 @@
+org/apache/hadoop/yarn/server/sharedcachemanager/store/TestInMemorySCMStore$3.class
+org/apache/hadoop/yarn/server/sharedcachemanager/TestSharedCacheUploaderService.class
+org/apache/hadoop/yarn/server/sharedcachemanager/store/SCMStoreBaseTest.class
+org/apache/hadoop/yarn/server/sharedcachemanager/store/TestInMemorySCMStore$2.class
+org/apache/hadoop/yarn/server/sharedcachemanager/DummyAppChecker.class
+org/apache/hadoop/yarn/server/sharedcachemanager/TestRemoteAppChecker$DummyYarnClientImpl.class
+org/apache/hadoop/yarn/server/sharedcachemanager/metrics/TestCleanerMetrics.class
+org/apache/hadoop/yarn/server/sharedcachemanager/TestSCMAdminProtocolService$1.class
+org/apache/hadoop/yarn/server/sharedcachemanager/TestSCMAdminProtocolService.class
+org/apache/hadoop/yarn/server/sharedcachemanager/store/TestInMemorySCMStore$1.class
+org/apache/hadoop/yarn/server/sharedcachemanager/TestCleanerTask.class
+org/apache/hadoop/yarn/server/sharedcachemanager/TestClientSCMProtocolService.class
+org/apache/hadoop/yarn/server/sharedcachemanager/store/TestInMemorySCMStore.class
+org/apache/hadoop/yarn/server/sharedcachemanager/store/TestInMemorySCMStore$4.class
+org/apache/hadoop/yarn/server/sharedcachemanager/TestRemoteAppChecker.class

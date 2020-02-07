@@ -1,0 +1,9 @@
+org/apache/hadoop/yarn/applications/distributedshell/TestDSAppMaster.class
+org/apache/hadoop/yarn/applications/distributedshell/TestDSFailedAppMaster.class
+org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShell.class
+org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShellWithNodeLabels.class
+org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShellWithNodeLabels$NMContainerMonitor.class
+org/apache/hadoop/yarn/applications/distributedshell/TestDSSleepingAppMaster.class
+org/apache/hadoop/yarn/applications/distributedshell/ContainerLaunchFailAppMaster.class
+org/apache/hadoop/yarn/applications/distributedshell/ContainerLaunchFailAppMaster$FailContainerLaunchNMCallbackHandler.class
+org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShell$1.class

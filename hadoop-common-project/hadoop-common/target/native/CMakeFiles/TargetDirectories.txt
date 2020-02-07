@@ -1,0 +1,5 @@
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-common-project/hadoop-common/target/native/CMakeFiles/hadoop_static.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-common-project/hadoop-common/target/native/CMakeFiles/rebuild_cache.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-common-project/hadoop-common/target/native/CMakeFiles/edit_cache.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-common-project/hadoop-common/target/native/CMakeFiles/hadoop.dir
+/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-common-project/hadoop-common/target/native/CMakeFiles/test_bulk_crc32.dir

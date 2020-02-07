@@ -1,0 +1,17 @@
+org/apache/hadoop/oncrpc/TestRpcMessage$1.class
+org/apache/hadoop/oncrpc/TestRpcMessage.class
+org/apache/hadoop/nfs/TestNfsTime.class
+org/apache/hadoop/nfs/nfs3/TestFileHandle.class
+org/apache/hadoop/oncrpc/TestRpcCallCache.class
+org/apache/hadoop/oncrpc/security/TestCredentialsSys.class
+org/apache/hadoop/portmap/TestPortmap.class
+org/apache/hadoop/oncrpc/TestRpcDeniedReply.class
+org/apache/hadoop/oncrpc/TestRpcCall.class
+org/apache/hadoop/oncrpc/TestFrameDecoder$TestRpcProgram.class
+org/apache/hadoop/oncrpc/TestRpcAcceptedReply.class
+org/apache/hadoop/oncrpc/TestFrameDecoder.class
+org/apache/hadoop/oncrpc/security/TestRpcAuthInfo.class
+org/apache/hadoop/oncrpc/TestRpcReply.class
+org/apache/hadoop/oncrpc/TestRpcReply$1.class
+org/apache/hadoop/oncrpc/TestXDR.class
+org/apache/hadoop/nfs/TestNfsExports.class

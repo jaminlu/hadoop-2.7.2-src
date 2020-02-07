@@ -1,0 +1,5 @@
+org/apache/hadoop/contrib/utils/join/SampleDataJoinReducer.class
+org/apache/hadoop/contrib/utils/join/TestDataJoin$1.class
+org/apache/hadoop/contrib/utils/join/SampleTaggedMapOutput.class
+org/apache/hadoop/contrib/utils/join/SampleDataJoinMapper.class
+org/apache/hadoop/contrib/utils/join/TestDataJoin.class

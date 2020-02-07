@@ -1,0 +1,11 @@
+org/apache/hadoop/mapred/tools/TestGetGroups.class
+org/apache/hadoop/tools/TestLogalyzer.class
+org/apache/hadoop/tools/TestCopyFiles$3.class
+org/apache/hadoop/tools/TestCopyFiles$MyFile.class
+org/apache/hadoop/tools/TestDistCh.class
+org/apache/hadoop/tools/TestCopyFiles.class
+org/apache/hadoop/tools/TestCopyFiles$1.class
+org/apache/hadoop/tools/TestDistCh$FileTree.class
+org/apache/hadoop/tools/TestDistCh$ChPermissionStatus.class
+org/apache/hadoop/tools/TestCopyFiles$4.class
+org/apache/hadoop/tools/TestCopyFiles$2.class

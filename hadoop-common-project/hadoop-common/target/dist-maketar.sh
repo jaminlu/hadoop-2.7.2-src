@@ -1,0 +1,2 @@
+cd "/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-common-project/hadoop-common/target"
+                      tar cf - hadoop-common-2.7.2 | gzip > hadoop-common-2.7.2.tar.gz

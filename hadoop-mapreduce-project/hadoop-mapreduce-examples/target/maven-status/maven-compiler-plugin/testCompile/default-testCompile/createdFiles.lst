@@ -1,0 +1,12 @@
+org/apache/hadoop/examples/TestBaileyBorweinPlouffe.class
+org/apache/hadoop/examples/pi/math/TestLongLong.class
+org/apache/hadoop/examples/pi/math/TestSummation$Summation2.class
+org/apache/hadoop/examples/TestWordStats.class
+org/apache/hadoop/examples/terasort/TestTeraSort.class
+org/apache/hadoop/mapreduce/lib/db/TestDBJob.class
+org/apache/hadoop/examples/pi/math/TestSummation.class
+org/apache/hadoop/examples/pi/math/TestModular$Montgomery2.class
+org/apache/hadoop/examples/pi/math/TestModular.class
+org/apache/hadoop/examples/TestWordStats$WordMeanReader.class
+org/apache/hadoop/examples/TestWordStats$WordMedianReader.class
+org/apache/hadoop/examples/TestWordStats$WordStdDevReader.class

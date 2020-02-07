@@ -1,0 +1,2 @@
+cd "/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-common-project/hadoop-kms/target/tomcat.exp"
+                      gzip -cd ../../downloads/apache-tomcat-6.0.44.tar.gz | tar xf -

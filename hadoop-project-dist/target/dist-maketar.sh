@@ -1,0 +1,2 @@
+cd "/Users/pengzhenzhen/Desktop/majorlu/github/Hadoop_code/hadoop-2.7.2-src/hadoop-project-dist/target"
+                      tar cf - hadoop-project-dist-2.7.2 | gzip > hadoop-project-dist-2.7.2.tar.gz
