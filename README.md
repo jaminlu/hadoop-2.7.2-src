@@ -1,12 +1,14 @@
-# hadoop-2.7.2-src
-hadoop version 2.7.2
-环境： MacOS + IntelliJ IDEA 
-软件包： 
-protobuf-2.5.0.tar.gz
+\# hadoop-2.7.2-src  
+hadoop version 2.7.2  
+环境： MacOS + IntelliJ IDEA    
+软件包：   
+protobuf-2.5.0.tar.gz  
 
 
 macos环境变量配置：
-在.bash_profile  添加如下环境变量：  
+
+在.bash_profile  添加如下环境变量：
+
 ```
 #关闭Homebrew 自动更新
 export HOMEBREW_NO_AUTO_UPDATE=true
@@ -30,6 +32,7 @@ export CLASSPATH
 ```
 
 
+
 1、进入Hadoop 2.7.2源代码命令，执行如下命令编译：   
 mvn clean package -Pdist,native -DskipTests -Dtar -Dmaven.javadoc.skip=true  
 
@@ -47,25 +50,32 @@ org.apache.curator:curator-client:2.6.0
 \#启动resourcemanager后发现访问http://localhost:8088报错  
 继续把org.apache.httpcomponents:httpclient:4.2.5改成Compile  
 
+
+
 4、配置文件设置：
 
 hdfs-default.xml:
+
 ```
 <property>
   <name>fs.defaultFS</name>
   <value>hdfs://localhost:9000</value>
 </property>
+
 ```
 core-site.xml:
 ```
+core-site.xml:
 <property>
   <name>hadoop.tmp.dir</name>
   <value>/opt/majorlu/github/Hadoop_code/tmp</value>
   <description>A base for other temporary directories.</description>
 </property>
 ```
-5、启动：
-运行namenode时使用-format先格式化hdfs文件系统
-再次启动namenode不要使用-format参数
-启动datanode进程
-启动ResourceManager进程
+
+
+5、启动：  
+运行namenode时使用-format先格式化hdfs文件系统  
+再次启动namenode不要使用-format参数  
+启动datanode进程   
+启动ResourceManager进程  
